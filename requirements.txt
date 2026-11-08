@@ -1,4 +1,4 @@
 streamlit
-langchain
-langchain_groq
+langchain-core
+langchain-groq
 python-dotenv
